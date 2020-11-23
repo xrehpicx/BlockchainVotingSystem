@@ -16,8 +16,8 @@ Install these prerequisites.
 ## Step 2. Install dependencies
 
 ```
-$ cd VotingSystem
-$ npm install
+$ cd BlockchainVotingSystem
+$ npm run setup
 ```
 
 ## Step 3. Start Ganache

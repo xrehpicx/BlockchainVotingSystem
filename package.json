@@ -1,0 +1,15 @@
+{
+  "name": "votingsystem",
+  "version": "1.0.0",
+  "description": "blockchain based voting system",
+  "main": "truffle.js",
+  "scripts": {
+    "dev": "cd client && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "truffle": "^5.1.54"
+  }
+}
